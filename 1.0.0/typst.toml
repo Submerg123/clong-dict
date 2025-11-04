@@ -1,0 +1,8 @@
+[package]
+name = "clong-dict"
+version = "1.0.0"
+entrypoint = "lib.typ"
+
+[template]
+path = "template"
+entrypoint = "main.typ"
